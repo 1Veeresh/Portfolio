@@ -49,8 +49,8 @@ Skilled in data wrangling, report generation, and deriving business insights usi
 
 ## 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: ([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/veeresh-mamdapur/))  
+- Email: [veeresh.mamdapur@gmail.com](mailto:veeresh.mamdapur@gmail.com)  
+- GitHub: [github.com/1Veeresh](https://github.com/1Veeresh)
 
 
