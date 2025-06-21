@@ -26,7 +26,7 @@ Skilled in data wrangling, report generation, and deriving business insights usi
 - **Web**: HTML, CSS, JSON, XML, XSD  
 - **Tools**: Git, JIRA, Postman, SVN  
 - **Cloud/CRM**: Salesforce Platform (Certified Developer)  
-- **Data**: MySQL, Pandas, Seaborn, Matplotlib (in progress)
+- **Data**: MySQL, Pandas, Seaborn, Matplotlib
 
 ---
 
